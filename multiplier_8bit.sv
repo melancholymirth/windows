@@ -1,3 +1,4 @@
+// This is our top level component
 module multiplier_8bit(
 		
 		input logic enable, clk, reset,
