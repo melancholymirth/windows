@@ -1,0 +1,8 @@
+WIN + x: admin setting
+WIN + ctrl + d: craete new desktop
+WIN + ctrl + f4: close current desktop
+WIn + ctrl + left/right: switch desktop
+WIN + e: file
+WIN + t: taskbar
+WIN + d: desktop
+
